@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+graphene
+python-multipart
+strawberry-graphql[fastapi]
