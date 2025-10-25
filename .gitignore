@@ -2,3 +2,8 @@
 chroma-data
 venv
 __pycache__
+mlartifacts
+mlruns
+*.html
+*.png
+logs
