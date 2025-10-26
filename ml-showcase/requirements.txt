@@ -1,0 +1,12 @@
+scikit-learn
+mlflow
+optuna
+shap
+lime
+numpy
+matplotlib
+tensorflow
+tensorflow-datasets
+torch
+torchvision
+torchtext
