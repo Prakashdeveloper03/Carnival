@@ -1,2 +1,4 @@
 .idea
 chroma-data
+venv
+__pycache__
